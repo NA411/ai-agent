@@ -1,0 +1,6 @@
+# config.py
+
+MAX_CHARS = 10000
+SUBPROCESS_TIMEOUT_TIME = 30
+WORKING_DIRECTORY = "./calculator"
+MAX_ITERS = 20
